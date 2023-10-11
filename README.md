@@ -8,8 +8,6 @@
 
 <p align="justify">
   <img style="max-width: 340px;" src="https://github-readme-stats.vercel.app/api?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
-</p>
-<p align="justify">
   <img style="max-width: 380px;" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false">
 </p>
 <p align="center">
