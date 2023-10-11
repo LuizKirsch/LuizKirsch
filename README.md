@@ -8,12 +8,10 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false">
-</p>
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-kirsch-177555187) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quirsshe) 
