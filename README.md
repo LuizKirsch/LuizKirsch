@@ -6,9 +6,13 @@
 
 # 📊 GitHub Stats:
 
-  ![](https://github-readme-stats.vercel.app/api?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img style="max-width: 345px;" src="https://github-readme-stats.vercel.app/api?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
+  <img style="max-width: 382px;" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 
 
