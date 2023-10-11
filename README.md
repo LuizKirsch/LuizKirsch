@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="">
   <img style="max-width: 345px;" src="https://github-readme-stats.vercel.app/api?username=LuizKirsch&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
   <img style="max-width: 382px;" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizKirsch&theme=nightowl&hide_border=false">
 </p>
