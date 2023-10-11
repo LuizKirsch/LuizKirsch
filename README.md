@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 Estou trabalhando como programador junior<br>📚 Estou atualmente aprendendo novas linguagens de programação<br>⚡ No meu tempo livre, jogo videogames e assisto filmes
+# 💫 Sobre mim:
+🔭 Estou trabalhando como programador júnior FullStack<br>📚 Estou atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas<br>⚡ No meu tempo livre, jogo videogames e assisto séries e filmes
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quirsshe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-kirsch-177555187) 
 
 # 💻 Tech Stack:
