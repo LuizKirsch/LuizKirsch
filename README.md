@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou trabalhando como programador FullStack júnior <br>📚 Estou atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas<br>
+🔭 Estou trabalhando como programador FullStack <br>📚 Estou atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas<br>
 
 # 💻 Tech Stack:
 
