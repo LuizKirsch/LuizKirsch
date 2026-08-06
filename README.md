@@ -20,8 +20,6 @@
 - 🏢 Trabalho num **ERP do setor de consórcios**, em Laravel + Livewire.
 - 🧪 Comecei em **QA automatizado** (Cypress, Selenium, CodeceptJS) antes de migrar para desenvolvimento.
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** (IENH), formatura em 2027.
-- 🎯 Próximos passos: aprofundar em **React** e em **arquitetura de software**.
-
 ---
 
 ## 🛠️ Stack
