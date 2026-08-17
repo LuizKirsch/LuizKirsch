@@ -63,4 +63,4 @@
 |---|---|---|
 | **[tenancy-laravel](https://github.com/LuizKirsch/tenancy-laravel)** | Aplicação multi-tenant com banco de dados isolado por tenant e identificação por subdomínio, provisionado automaticamente na criação | Laravel · stancl/tenancy · Livewire · MySQL |
 | **[wt-manager](https://github.com/LuizKirsch/wt-manager)** | App desktop para gerenciar git worktrees e ambientes Docker entre projetos | Electron · React · TypeScript |
-| **[BarNout](#)** | Sistema de gamificação para evento universitário com pontuação, ranking e integração com o app do evento | Laravel · MySQL · Next.js |
+| **[BarNout](https://barcongress.com.br/)** | Sistema de gamificação para evento universitário com pontuação, ranking e integração com o app do evento | Laravel · MySQL · Next.js |
