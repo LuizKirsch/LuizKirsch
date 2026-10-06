@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  🇧🇷 Português · <a href="./README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/luiz-kirsch-177555187">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -17,8 +21,8 @@
 
 ## 💫 Sobre mim
 
-- 🏢 Trabalho num **ERP do setor de consórcios**, em Laravel + Livewire.
-- 🧪 Comecei em **QA automatizado** (Cypress, Selenium, CodeceptJS) antes de migrar para desenvolvimento.
+- 🏢 Desenvolvedor **Pleno** num **ERP do setor de consórcios**, em Laravel + Livewire.
+- 🧪 Cerca de **4 anos na área**: comecei em **QA automatizado** (Cypress, Selenium, CodeceptJS) antes de migrar para desenvolvimento.
 - 🧭 Gosto de **pensar a arquitetura antes do código**: requisitos, regras de negócio e modelagem documentados antes da primeira linha.
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** (IENH), formatura em 2027.
 
@@ -34,7 +38,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -59,6 +62,7 @@
 
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-5C2D91?style=flat)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
@@ -68,7 +72,7 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[agenda-eletrecista](https://github.com/LuizKirsch/agenda-eletrecista)** | Sistema de agenda e ordens de serviço para eletricista autônomo: clientes e imóveis, OS com múltiplas atividades, agenda semanal com drag-and-drop, alerta de conflito de horário e perfis de secretária e eletricista. Toda a análise (requisitos, regras de negócio, domínio, dicionário de dados e diagramas) está documentada num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)** | Node.js · Express · Sequelize · React · MySQL · Obsidian |
+| **[agenda-eletricista](https://github.com/LuizKirsch/agenda-eletricista)** | Agenda e ordens de serviço para eletricista autônomo, com agenda semanal drag-and-drop, alerta de conflito de horário e perfis de acesso. Análise completa (requisitos, regras de negócio e diagramas) documentada num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)** | Node.js · Express · Sequelize · React · MySQL · Obsidian |
 | **[tenancy-laravel](https://github.com/LuizKirsch/tenancy-laravel)** | Aplicação multi-tenant com banco de dados isolado por tenant e identificação por subdomínio, provisionado automaticamente na criação | Laravel · stancl/tenancy · Livewire · MySQL |
 | **[wt-manager](https://github.com/LuizKirsch/wt-manager)** | App desktop para gerenciar git worktrees e ambientes Docker entre projetos | Electron · React · TypeScript |
 | **[oraculo](https://github.com/LuizKirsch/oraculo)** | POC de assistente que responde perguntas com base em documentos internos (PDFs e imagens com OCR), usando RAG com filtro por categoria e persona configurável | Python · FastAPI · LangChain · ChromaDB · OpenAI · Docker · Cloud Run |
