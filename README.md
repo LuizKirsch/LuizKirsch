@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Kirsch</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack · PHP / Laravel / Livewire</b>
+  <b>Desenvolvedor Fullstack · Arquitetura de sistemas · Qualidade de software</b>
 </p>
 
 <p align="center">
@@ -72,4 +72,4 @@
 | **[tenancy-laravel](https://github.com/LuizKirsch/tenancy-laravel)** | Aplicação multi-tenant com banco de dados isolado por tenant e identificação por subdomínio, provisionado automaticamente na criação | Laravel · stancl/tenancy · Livewire · MySQL |
 | **[wt-manager](https://github.com/LuizKirsch/wt-manager)** | App desktop para gerenciar git worktrees e ambientes Docker entre projetos | Electron · React · TypeScript |
 | **[oraculo](https://github.com/LuizKirsch/oraculo)** | POC de assistente que responde perguntas com base em documentos internos (PDFs e imagens com OCR), usando RAG com filtro por categoria e persona configurável | Python · FastAPI · LangChain · ChromaDB · OpenAI · Docker · Cloud Run |
-| **[BarNout](https://barnout.barcongress.com.br/)** | Sistema de gamificação para o **[Bar Congress](https://barcongress.com.br/)**, evento universitário, com pontuação, ranking e integração com o app do evento. Único dev e responsável pelo projeto (arquitetura, back, front e deploy). 🔒 *Código privado* | Laravel · MySQL · Next.js |
+| **[BarNout](https://barnout.barcongress.com.br/)** | Sistema de gamificação para o **[Bar Congress](https://barcongress.com.br/)**, evento universitário, com pontuação, ranking e integração com o app do evento. Atuei no desenvolvimento e na organização do time e das entregas. 🔒 *Código privado* | Laravel · MySQL · Next.js |
