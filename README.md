@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  🇧🇷 Português · <a href="./README.en.md">🇺🇸 English</a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/luiz-kirsch-177555187">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -72,7 +68,7 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[agenda-eletricista](https://github.com/LuizKirsch/agenda-eletricista)** | Agenda e ordens de serviço para eletricista autônomo, com agenda semanal drag-and-drop, alerta de conflito de horário e perfis de acesso. Análise completa (requisitos, regras de negócio e diagramas) documentada num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)** | Node.js · Express · Sequelize · React · MySQL · Obsidian |
+| **[agenda-eletricista](https://github.com/LuizKirsch/agenda-eletrecista)** | Agenda e ordens de serviço para eletricista autônomo, com agenda semanal drag-and-drop, alerta de conflito de horário e perfis de acesso. Análise completa (requisitos, regras de negócio e diagramas) documentada num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)** | Node.js · Express · Sequelize · React · MySQL · Obsidian |
 | **[tenancy-laravel](https://github.com/LuizKirsch/tenancy-laravel)** | Aplicação multi-tenant com banco de dados isolado por tenant e identificação por subdomínio, provisionado automaticamente na criação | Laravel · stancl/tenancy · Livewire · MySQL |
 | **[wt-manager](https://github.com/LuizKirsch/wt-manager)** | App desktop para gerenciar git worktrees e ambientes Docker entre projetos | Electron · React · TypeScript |
 | **[oraculo](https://github.com/LuizKirsch/oraculo)** | POC de assistente que responde perguntas com base em documentos internos (PDFs e imagens com OCR), usando RAG com filtro por categoria e persona configurável | Python · FastAPI · LangChain · ChromaDB · OpenAI · Docker · Cloud Run |
