@@ -7,7 +7,7 @@ Oi, sou o Luiz. Trabalho como desenvolvedor pleno num ERP para o setor de consó
 
 Comecei em 2022 automatizando testes com Cypress, Selenium e CodeceptJS, e em 2023 passei para o desenvolvimento. Ficou o hábito de entender o problema primeiro: requisitos, regras de negócio e modelagem no papel antes da primeira linha de código.
 
-**[Portfólio](https://luizkirsch.github.io/portfolio/)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/luiz-kirsch-177555187)** &nbsp;·&nbsp; **[E-mail](mailto:luizhkirch@gmail.com)**
+**[Portfólio](https://luizkirsch.github.io/portfolio/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/luiz-kirsch/)** &nbsp;·&nbsp; **[E-mail](mailto:luizhkirch@gmail.com)**
 
 <br>
 
