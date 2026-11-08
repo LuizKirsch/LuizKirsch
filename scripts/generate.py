@@ -150,7 +150,7 @@ def header(t):
     s.add(f'<rect x="200" y="204" width="10" height="16" fill="{t["accent"]}"/>')
 
     sticky(s, 560, 42, 150, 104, "yellow", ["laravel", "+ react"], -4)
-    sticky(s, 700, 118, 150, 104, "blue", ["erp de", "consórcios"], 3)
+    sticky(s, 700, 118, 150, 104, "blue", ["arquitetura", "de software"], 3)
     sticky(s, 556, 172, 140, 96, "green", ["ads · ienh", "2027"], -2)
 
     s.text(258, 284, "desenho antes de codar", font="hand", size=27, fill=t["accent"], rotate=-2)

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Quadro com o cartão de Luiz Kirsch, desenvolvedor fullstack pleno em Campo Bom, RS, e post-its: Laravel + React, ERP de consórcios, ADS na IENH 2027" src="assets/header-light.svg" width="100%">
+  <img alt="Quadro com o cartão de Luiz Kirsch, desenvolvedor fullstack pleno em Campo Bom, RS, e post-its: Laravel + React, arquitetura de software, ADS na IENH 2027" src="assets/header-light.svg" width="100%">
 </picture>
 
 Oi, sou o Luiz. Trabalho como desenvolvedor pleno num ERP para o setor de consórcios, em Laravel e Livewire, e também em projetos com Node.js e React.
