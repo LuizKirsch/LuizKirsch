@@ -167,7 +167,7 @@ def trajetoria(t):
         ("2024", "dev júnior", ["laravel, livewire,", "rpa em python"]),
         ("2026", "dev pleno", ["arquitetura dos", "módulos e dados"]),
     ]
-    labels = ["migrei pro código", "novo time", "promoção"]
+    labels = ["migrei pro código", "", "promoção"]
     w, h, gap, y = 176, 120, 40, 60
     x0 = (880 - (4 * w + 3 * gap)) / 2
     for i, (year, title, desc) in enumerate(boxes):
@@ -183,9 +183,10 @@ def trajetoria(t):
         if i < len(labels):
             ax = x + w + 6
             s.arrow(f"M{ax} {y + h / 2} L{ax + gap - 14} {y + h / 2}")
-            s.text(ax + (gap - 8) / 2, y - 14 if i % 2 == 0 else y + h + 32, labels[i],
-                   font="hand", size=21, fill=t["accent"], anchor="middle",
-                   rotate=-3 if i % 2 == 0 else 2)
+            if labels[i]:
+                s.text(ax + (gap - 8) / 2, y - 14 if i % 2 == 0 else y + h + 32, labels[i],
+                       font="hand", size=21, fill=t["accent"], anchor="middle",
+                       rotate=-3 if i % 2 == 0 else 2)
     return s
 
 
