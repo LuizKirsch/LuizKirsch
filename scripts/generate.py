@@ -160,12 +160,12 @@ def header(t):
 
 def trajetoria(t):
     s = Svg(880, 230, t, "Trajetória: QA automatizado em 2022, desenvolvimento em 2023, "
-                         "ERP de consórcios em 2024, pleno em 2026")
+                         "dev júnior em 2024, dev pleno em 2026")
     boxes = [
         ("2022", "qa automatizado", ["cypress, selenium,", "codeceptjs"]),
         ("2023", "dev fullstack", ["php puro pra", "laravel multi-tenant"]),
-        ("2024", "erp de consórcios", ["laravel, livewire,", "rpa em python"]),
-        ("2026", "pleno", ["arquitetura dos", "módulos e dados"]),
+        ("2024", "dev júnior", ["laravel, livewire,", "rpa em python"]),
+        ("2026", "dev pleno", ["arquitetura dos", "módulos e dados"]),
     ]
     labels = ["migrei pro código", "novo time", "promoção"]
     w, h, gap, y = 176, 120, 40, 60

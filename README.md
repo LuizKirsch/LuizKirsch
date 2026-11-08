@@ -13,7 +13,7 @@ Comecei em 2022 automatizando testes com Cypress, Selenium e CodeceptJS, e em 20
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/trajetoria-dark.svg">
-  <img alt="Trajetória: QA automatizado em 2022, dev fullstack em 2023 levando um sistema de PHP puro para Laravel multi-tenant, ERP de consórcios em 2024 e pleno em 2026" src="assets/trajetoria-light.svg" width="100%">
+  <img alt="Trajetória: QA automatizado em 2022, dev fullstack em 2023 levando um sistema de PHP puro para Laravel multi-tenant, dev júnior em 2024 e dev pleno em 2026" src="assets/trajetoria-light.svg" width="100%">
 </picture>
 
 ### Em destaque
