@@ -1,75 +1,48 @@
-<h1 align="center">Luiz Kirsch</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Quadro com o cartão de Luiz Kirsch, desenvolvedor fullstack pleno em Campo Bom, RS, e post-its: Laravel + React, ERP de consórcios, ADS na IENH 2027" src="assets/header-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <b>Desenvolvedor Fullstack · Arquitetura de sistemas · Qualidade de software</b>
+Oi, sou o Luiz. Trabalho como desenvolvedor pleno num ERP para o setor de consórcios, em Laravel e Livewire, e também em projetos com Node.js e React.
+
+Comecei em 2022 automatizando testes com Cypress, Selenium e CodeceptJS, e em 2023 passei para o desenvolvimento. Ficou o hábito de entender o problema primeiro: requisitos, regras de negócio e modelagem no papel antes da primeira linha de código.
+
+**[Portfólio](https://luizkirsch.github.io/portfolio/)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/luiz-kirsch-177555187)** &nbsp;·&nbsp; **[E-mail](mailto:luizhkirch@gmail.com)**
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trajetoria-dark.svg">
+  <img alt="Trajetória: QA automatizado em 2022, dev fullstack em 2023 levando um sistema de PHP puro para Laravel multi-tenant, ERP de consórcios em 2024 e pleno em 2026" src="assets/trajetoria-light.svg" width="100%">
+</picture>
+
+### Em destaque
+
+<a href="https://github.com/LuizKirsch/agenda-eletrecista">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/agenda-dark.svg">
+    <img alt="Arquitetura do agenda-eletricista: React com agenda semanal drag-and-drop, API Express com alerta de conflito de horário e perfis de acesso, Sequelize e MySQL" src="assets/agenda-light.svg" width="100%">
+  </picture>
+</a>
+
+Um sistema de agenda e ordens de serviço para um eletricista autônomo. Antes de abrir o editor, levantei requisitos, regras de negócio e diagramas num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)**, que fica público junto com o código.
+
+### Outros projetos
+
+<p>
+  <a href="https://github.com/LuizKirsch/tako"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-tako-dark.svg"><img alt="tako: CLI que liga um board do GitHub Projects a um agente de IA" src="assets/tile-tako-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/LuizKirsch/tenancy-laravel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-tenancy-dark.svg"><img alt="tenancy-laravel: aplicação multi-tenant com banco isolado por tenant" src="assets/tile-tenancy-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/LuizKirsch/oraculo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-oraculo-dark.svg"><img alt="oraculo: assistente com RAG sobre documentos internos" src="assets/tile-oraculo-light.svg" width="49%"></picture></a>
+  <a href="https://barnout.barcongress.com.br/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-barnout-dark.svg"><img alt="BarNout: gamificação do Bar Congress, código privado" src="assets/tile-barnout-light.svg" width="49%"></picture></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/luiz-kirsch-177555187">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:luizhkirch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+### Com o que eu trabalho
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack: PHP, Laravel, Livewire, Node.js, Express e Python no back-end; TypeScript, React, Next.js, Vite, Tailwind e Alpine no front-end; MySQL, SQLite, Redis, Docker, Linux e GitHub Actions; Cypress, Selenium, PHPUnit e Playwright" src="assets/stack-light.svg" width="100%">
+</picture>
 
-## 💫 Sobre mim
-
-- 🏢 Desenvolvedor **Pleno** num **ERP do setor de consórcios**, em Laravel + Livewire.
-- 🧪 Cerca de **4 anos na área**: comecei em **QA automatizado** (Cypress, Selenium, CodeceptJS) antes de migrar para desenvolvimento.
-- 🧭 Gosto de **pensar a arquitetura antes do código**: requisitos, regras de negócio e modelagem documentados antes da primeira linha.
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** (IENH), formatura em 2027.
-
----
-
-## 🛠️ Stack
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
-
-**Dados & Infra**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Qualidade & Documentação**
-
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![CodeceptJS](https://img.shields.io/badge/CodeceptJS-5C2D91?style=flat)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
-
----
-
-## 📌 Projetos
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[agenda-eletricista](https://github.com/LuizKirsch/agenda-eletrecista)** | Agenda e ordens de serviço para eletricista autônomo, com agenda semanal drag-and-drop, alerta de conflito de horário e perfis de acesso. Análise completa (requisitos, regras de negócio e diagramas) documentada num **[vault do Obsidian](https://github.com/LuizKirsch/agenda-eletrecista-obsidian)** | Node.js · Express · Sequelize · React · MySQL · Obsidian |
-| **[tenancy-laravel](https://github.com/LuizKirsch/tenancy-laravel)** | Aplicação multi-tenant com banco de dados isolado por tenant e identificação por subdomínio, provisionado automaticamente na criação | Laravel · stancl/tenancy · Livewire · MySQL |
-| **[tako](https://github.com/LuizKirsch/tako)** | CLI que conecta um board do GitHub Projects a um agente de IA. A ideia é escolher o card no terminal e deixar a ferramenta criar a branch, abrir o agente com o contexto da issue e entregar o trabalho como pull request. Hoje já configura o repositório e mostra o board no terminal. Iniciar a task e abrir o PR ainda estão em desenvolvimento 🚧 | TypeScript · Node.js · Ink · GitHub CLI · Claude Code |
-| **[oraculo](https://github.com/LuizKirsch/oraculo)** | POC de assistente que responde perguntas com base em documentos internos (PDFs e imagens com OCR), usando RAG com filtro por categoria e persona configurável | Python · FastAPI · LangChain · ChromaDB · OpenAI · Docker · Cloud Run |
-| **[BarNout](https://barnout.barcongress.com.br/)** | Sistema de gamificação para o **[Bar Congress](https://barcongress.com.br/)**, evento universitário, com pontuação, ranking e integração com o app do evento. Atuei no desenvolvimento e na organização do time e das entregas. 🔒 *Código privado* | Laravel · MySQL · Next.js |
+<p align="center"><sub>Campo Bom, RS &nbsp;·&nbsp; ADS na IENH &nbsp;·&nbsp; os gráficos são SVGs no mesmo estilo de quadro do meu <a href="https://luizkirsch.github.io/portfolio/">portfólio</a>, gerados por <a href="scripts/generate.py">um script Python</a></sub></p>
